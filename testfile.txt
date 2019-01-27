@@ -1,0 +1,18 @@
+# Skip commented lines test
+#
+# Skip blank line test
+
+
+# Get string test
+testString = ThisIsMyString
+
+# Get boolean test
+testTrue = True
+testFalse = False
+testOther = Other
+
+# Get integer test
+testInteger = 1024
+
+# Get float test
+testFloat = 3.14159

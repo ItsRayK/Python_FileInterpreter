@@ -1,0 +1,11 @@
+# Hopefully skips this line and the following blank line
+
+Item 1
+Item 2
+Item 3
+
+# This one has a bunch of spaces at the end
+Item 4
+
+Item 5
+
